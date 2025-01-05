@@ -1,0 +1,2 @@
+lose wight program,3 weeks,Intermediate,weight loss,path/vedio.mp4,path/image.jpg,path/doc.pdf,$20,online,sunday/monday,10:00 AM-12:00 AM
+8-Week Fat Burn Bootcamp,8 weeks (1 hour per session, 4 sessions per week),Advanced,Accelerate fat loss through high-intensity interval training (HIIT),path/to/video.mp4,path/to/image.jpg,path/to/document.pdf,$99,Online,Monday, Wednesday, Friday,6:00 PM - 7:00 PM

@@ -1,0 +1,4 @@
+ahmad,8-Week Fat Burn Bootcamp,85%,20 tasks,18/20 sessions
+Alice,30-Day Full Body Transformation,80%,15 tasks,5/6 sessions
+Dana,30-Day Full Body Transformation,40%,8 tasks,2/6 sessions
+Bob,30-Day Full Body Transformation,67%,11 tasks,4/6 sessions
