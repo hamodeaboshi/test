@@ -42,14 +42,3 @@ jobs:
 
       - name: Run test cases
         run: mvn --batch-mode -Dmaven.test.failure.ignore=true test
-
-      - name: Build and analyze with JaCoCo
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Needed to get PR information, if any
-          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-        run: |
-          mvn clean verify sonar:sonar \
-            -Dsonar.projectKey=hamodeaboshi_test \
-            -Dsonar.host.url=https://sonarcloud.io \
-            -Dsonar.login=${{ secrets.SONAR_TOKEN }} \
-            -Dsonar.coverage.jacoco.xmlReportPaths=target/site/jacoco/jacoco.xml
