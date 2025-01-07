@@ -6,6 +6,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.logging.Logger;
 
+
+
 public class ProgramCatalog {
 	private List<Programs> programs = new ArrayList<Programs>();
     private Map<String, Boolean> userEnrollments = new HashMap<String, Boolean>();
